@@ -7,5 +7,10 @@
 
 
 
+features.py 为特征文件
+submission.py 为提交用的代码，顺便可以看下线下cv分数
+eval.py 为线下调参，调特征用的线下测试集
 
+
+tool.py 为工具包
 
